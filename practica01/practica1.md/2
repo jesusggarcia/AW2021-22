@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>Beatbox</title>
+</head>
+<body>
+
+<style type="text/css">
+html {
+font-family: sans-serif;
+font-size: 15px;
+color:  #fff;
+}
+h1 {
+text-align: center;
+
+}
+body
+{
+    background-image: url(https://c.tenor.com/vouhpMxn-0gAAAAC/codfish-beatbox.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+table tr td {
+    border: 1px solid salmon;
+}
+</style>
+<h1>¿Que es el beatbox?</h1>
+<p style="background: lightgrey; color: black;">
+Beatboxing es una forma de sonido vocal que se basa en la capacidad de producir ritmos de cualquier tipo, compases y sonidos musicales utilizando el aparato fonador. El beatbox es el arte de crear música por medio de imitación de sonidos, especialmente de instrumentos musicales como la batería, bombo, platillos, caja de ritmos, entre otros.</p>
+
+<p>Betaboxer famosos
+<ul><li> <ol> <b>naPom</b></ol></li><img src="https://static.wikia.nocookie.net/beatbox/images/2/21/NaPoM_Beatbox.jpg/revision/latest/top-crop/width/360/height/450?cb=20200619193539https://static.wikia.nocookie.net/beatbox/images/2/21/NaPoM_Beatbox.jpg/revision/latest/top-crop/width/360/height/450?cb=20200619193539" width= "300" height="150"/><br/><br/>
+ <li><ol> <b>Sho-Go</b></ol></li><img src="https://i.ytimg.com/vi/eg9_ymCEAF8/maxresdefault.jpg" width= "300" height="150"/><br/><br/>
+ <li><ol><b>Dlow</b></ol></li> </ul><img src="https://static.wikia.nocookie.net/beatbox/images/0/0a/Dlow_Grand_Beatbox_Battle_2019.jpg/revision/latest?cb=20200619195542" width= "300" height="150"/><br/><br/>
+ <li><ol><b>Codfish</b></ol></li> </ul><img src="https://s.mxmcdn.net/images-storage/albums5/5/0/8/0/6/6/46660805_500_500.jpg" width= "300" height="150"/><br/><br/>
+
+
+</body>
+
+
+<hr/>
+<p> video de la mejor recopilacion de Beatbox------><a href="https://www.youtube.com/watch?v=5uDZBxBJf2Y">Yt</a></p>
+<table style="background: lightgrey; color: blue">
+	<tr>
+		<td>mas me gustan</td>
+		<td>menos me gustan</td>
+		<td>mejores</td>
+	</tr>
+	<tr>
+		<td>napon</td>
+		<td>Dlow</td>
+		<td>codfish</td>
+	</tr>
+</table>
+
+</html>
