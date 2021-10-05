@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>Beatbox</title>
+</head>
+<body>
+
+<style type="text/css">
+html {
+font-family: sans-serif;
+font-size: 15px;
+color:  #fff;
+}
+h1 {
+text-align: center;
+
+}
+table tr td {
+border: 1px solid black;
+}
+table tr th {
+border: 1px solid black;
+}
+</style>
+
+</body>
+
+
+<table style="background: yellow ; color: blue">
+	<tr>
+		<td>celda</td>
+		<td colspan="4">celda</td>
+		<td>celda</td>
+	</tr>
+	<tr>
+		<td rowspan="4">celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td rowspan="4">celda</td>
+		
+	</tr>	
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+				
+	</tr>	
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		
+	</tr>
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		
+	</tr>
+	<tr>
+		<td rowspan="3">celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td rowspan="3"></td>
+		<td rowspan="3">celda</td>
+	</tr>
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+	</tr>
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		
+	</tr>
+
+</table><br/><br/><br/><br/>
+
+<table style="background: yellow ; color: blue">
+	<tr>
+		<td>celda</td>
+		<td colspan="2">celda</td>
+		<td>celda</td>
+		<td>celda</td>
+	</tr>
+	<tr>
+		<td>celda</td>
+		<td colspan="2">celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		
+	</tr>	
+	<tr>
+		<td>celda</td>
+		<td colspan="2">celda</td>
+		<td>celda</td>
+		<td>celda</td>
+				
+	</tr>	
+	<tr>
+		<td rowspan="3">celda</td>
+		<td>celda</td>
+		<td>celda</td>
+		<td rowspan="3">celda</td>
+		<td rowspan="3">celda</td>
+		
+	</tr>
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+		
+	</tr>
+	<tr>
+		<td>celda</td>
+		<td>celda</td>
+	</tr>
+
+</table><br/><br/><br/><br/>
+
+<table style="background: yellow ; color: blue">
+	<tr>
+		<td colspan="3">alfa</td>
+		<td>bravo</td>
+		<td rowspan="2">charlie</td>
+	</tr>
+	<tr>
+		<td>delta</td>
+		<td>echo</td>
+		<td>fostrot</td>
+		<td>golf</td>
+	</tr>	
+	<tr>
+		<td>hotel</td>
+		<td colspan="3" rowspan="2">india</td>
+		<td>juliet</td>
+				
+	</tr>	
+	<tr>
+		<td>kilo</td>
+		<td>lima</td>
+		
+	</tr>
+	<tr>
+		<td>mike</td>
+		<td>november</td>
+		<td>oscar</td>
+		<td>papa</td>
+		<td>quebec</td>
+		
+	</tr>
+
+</table><br/><br/><br/><br/>
+
+    <table style="background: yellow; color: blue;">
+        <tr>
+            <td>Level1</td>
+            <td>Level2</td>
+            <td>Level3</td>
+            <td>Info</td>
+            <td>Name</td>
+        </tr>
+        <tr>
+            <td rowspan="6">System</td>
+            <td rowspan="4">System apps</td>
+            <td rowspan="3">SystemEnv</td>
+            <td>App test</td>
+            <td>foo</td>
+        </tr>
+        <tr>
+            <td>App Memeory</td>
+            <td>foo</td>
+
+        </tr>
+        <tr>
+            <td>App test</td>
+            <td>bar</td>
+
+        </tr>
+        <tr>
+            <td>SystemEnv2</td>
+            <td>App test</td>
+            <td>bar</td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">System Memory</td>
+            <td rowspan="2">Memeory test</td>
+            <td>Memory Func</td>
+            <td>foo</td>
+        </tr>
+        <tr>
+            <td>Apes test</td>
+            <td>foo</td>
+        </tr>
+    </table><br/><br/><br/><br/>
+
+
+<table style="background: yellow ; color: blue">
+	<tr>
+		<th colspan="4">curso 2019/2010</th>
+
+	</tr>
+	<tr>
+		<th colspan="2">1º ESO-A</th>
+		<th colspan="2">1º ESO-A</th>
+		
+	</tr>	
+	<tr>
+		<td>Aprobados</td>
+		<td>Suspensos</td>
+		<td>Aprobados</td>
+		<td>Suspensos</td>
+				
+	</tr>	
+	<tr>
+		<td>68%</td>
+		<td>57%</td>
+	    <td>32%</td>
+		<td>43%</td>
+		
+	</tr>
+</table>
+</html>
