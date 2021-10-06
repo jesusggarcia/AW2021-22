@@ -23,6 +23,9 @@ border: 1px solid black;
 table tr th {
 border: 1px solid black;
 }
+table {   border-collapse: collapse;   width: 100%; } 
+ 
+th, td {   padding: 8px;   text-align: left;   border-bottom: 1px solid #ddd; }
 </style>
 
 </body>
@@ -85,6 +88,7 @@ border: 1px solid black;
 	</tr>
 
 </table><br/><br/><br/><br/>
+<p style="color: black"> el primer stilo hace que las tablas se ajusten al 100% de las paginas.</p>
 
 <table style="background: yellow ; color: blue">
 	<tr>
@@ -126,6 +130,7 @@ border: 1px solid black;
 	</tr>
 
 </table><br/><br/><br/><br/>
+<p style="color: black"> el segundo stilo hace que las tablas se ajusten al 100% de las paginas y achata la tabala ya que la anterior la estiraba.</p>
 
 <table style="background: yellow ; color: blue">
 	<tr>
@@ -160,6 +165,7 @@ border: 1px solid black;
 	</tr>
 
 </table><br/><br/><br/><br/>
+<p style="color: black"> el tercer stilo hace que las tablas se ajusten al 100% de las paginas y elimina los bordes inferiores.</p>
 
     <table style="background: yellow; color: blue;">
         <tr>
@@ -203,6 +209,7 @@ border: 1px solid black;
             <td>foo</td>
         </tr>
     </table><br/><br/><br/><br/>
+    <p style="color: black"> el cuarto colorea las casillas que tu elijas.</p>
 
 
 <table style="background: yellow ; color: blue">
@@ -230,4 +237,5 @@ border: 1px solid black;
 		
 	</tr>
 </table>
+<p style="color: black"> el quinto estilo cambia el color de la tabla y el texto.</p>
 </html>
